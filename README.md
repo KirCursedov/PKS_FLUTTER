@@ -38,20 +38,3 @@ https://github.com/user-attachments/assets/fb96052f-ae33-42a5-8771-1e82859e40d7
 
 Получилось сверстать основные экраны мобильного приложения на основе предоставленного макета и сделать навигацию между экранами.
 =======
-# madshop_ui_polyakova
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> master

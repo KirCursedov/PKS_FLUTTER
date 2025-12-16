@@ -25,7 +25,7 @@
 ## Контрольная точка 4
 ### После добавления заметки 
 
-<img width="397" height="855" alt="Снимок экрана 2025-12-15 163844" src="https://github.com/user-attachments/assets/8dff9997-e7dc-4add-9082-21bd074aa4a6" />
+<img width="373" height="711" alt="image" src="https://github.com/user-attachments/assets/2113dc44-a011-42dd-b6a9-d2bf8efdd314" />
 
 ## Контрольная точка 5
 ### После редактирования

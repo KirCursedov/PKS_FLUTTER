@@ -11,8 +11,10 @@
 ## Контрольная точка 1
 ### Скриншоты приложения в RuStore
 
-<img width="1879" height="719" alt="Снимок экрана 2025-12-19 052007" src="https://github.com/user-attachments/assets/c6de0847-eb5b-4276-a924-7e3c74c479b6" />
-<img width="1870" height="743" alt="Снимок экрана 2025-12-19 052017" src="https://github.com/user-attachments/assets/e6a3899f-31d4-4e8c-88af-fc74e4dd7101" />
+<img width="1896" height="847" alt="Снимок экрана 2025-12-19 053043" src="https://github.com/user-attachments/assets/2d0133e8-341f-4fea-839c-64a078fbed27" />
+
+<img width="1891" height="847" alt="image" src="https://github.com/user-attachments/assets/c57441ff-50a0-4c19-8304-a6cd0bea92aa" />
+
 
 
 

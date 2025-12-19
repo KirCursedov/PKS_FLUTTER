@@ -93,6 +93,7 @@ Delete: Удаление рецептов
 
 # База данных на FireBase
 <img width="1461" height="780" alt="image" src="https://github.com/user-attachments/assets/b81ee410-70b3-4057-8906-c4328add6393" />
+<img width="1516" height="776" alt="image" src="https://github.com/user-attachments/assets/312c150e-f653-4412-8718-c557ead3bad4" />
 
 ## Вывод
 
